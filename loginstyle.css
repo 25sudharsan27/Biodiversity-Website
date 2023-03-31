@@ -1,0 +1,64 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image:url('backgroung.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.login{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background-image:url('backgroung.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+        border-radius: 15px ;
+
+}
+h1{
+    text-align: center;
+    color: #060606;
+    padding: 20px;
+}
+label{
+    color: #121817;
+    font-size: 17px;
+}
+#Uname{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+#Pass{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+
+}
+#log{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: rgb(5, 5, 20);
+
+
+}
+span{
+    color: white;
+    font-size: 17px;
+}
+a{
+    float: right;
+    background-color: rgb(253, 244, 244);
+}
